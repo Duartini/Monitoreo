@@ -8,8 +8,9 @@ This project uses Docker Compose to set up a monitoring environment with Prometh
 ### Bringing Up the Containers
 To start all the containers, run the following command:
 
-```bash
-docker compose up -d ```
+```
+docker compose up -d
+```
 
 ### Verify Prometheus
 Open your web browser and navigate to http://localhost:9090.
